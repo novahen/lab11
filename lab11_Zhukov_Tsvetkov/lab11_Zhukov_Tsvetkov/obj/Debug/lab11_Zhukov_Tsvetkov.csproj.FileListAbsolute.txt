@@ -1,0 +1,9 @@
+C:\Users\user02\Desktop\374\lab11_Zhukov_Tsvetkov\lab11_Zhukov_Tsvetkov\bin\Debug\lab11_Zhukov_Tsvetkov.exe.config
+C:\Users\user02\Desktop\374\lab11_Zhukov_Tsvetkov\lab11_Zhukov_Tsvetkov\bin\Debug\lab11_Zhukov_Tsvetkov.exe
+C:\Users\user02\Desktop\374\lab11_Zhukov_Tsvetkov\lab11_Zhukov_Tsvetkov\bin\Debug\lab11_Zhukov_Tsvetkov.pdb
+C:\Users\user02\Desktop\374\lab11_Zhukov_Tsvetkov\lab11_Zhukov_Tsvetkov\obj\Debug\lab11_Zhukov_Tsvetkov.csprojResolveAssemblyReference.cache
+C:\Users\user02\Desktop\374\lab11_Zhukov_Tsvetkov\lab11_Zhukov_Tsvetkov\obj\Debug\lab11_Zhukov_Tsvetkov.Form1.resources
+C:\Users\user02\Desktop\374\lab11_Zhukov_Tsvetkov\lab11_Zhukov_Tsvetkov\obj\Debug\lab11_Zhukov_Tsvetkov.Properties.Resources.resources
+C:\Users\user02\Desktop\374\lab11_Zhukov_Tsvetkov\lab11_Zhukov_Tsvetkov\obj\Debug\lab11_Zhukov_Tsvetkov.csproj.GenerateResource.Cache
+C:\Users\user02\Desktop\374\lab11_Zhukov_Tsvetkov\lab11_Zhukov_Tsvetkov\obj\Debug\lab11_Zhukov_Tsvetkov.exe
+C:\Users\user02\Desktop\374\lab11_Zhukov_Tsvetkov\lab11_Zhukov_Tsvetkov\obj\Debug\lab11_Zhukov_Tsvetkov.pdb
